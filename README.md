@@ -1,8 +1,8 @@
 # Final Map Critque
-#### This is a report descriping The ***Portland Traffic Deaths and Injuries since 2007*** made on ESRI platform by the city of Portland. The goal of this report is to wirte up a map critique including a decription, data sources, style, and map elements.
+This is a report descriping The ***Portland Traffic Deaths and Injuries since 2007*** made on ESRI platform by the city of Portland. The goal of this report is to wirte up a map critique including a decription, data sources, style, and map elements.
 
 ##### Description
-The *Portland Traffic Deaths and Injuries since 2007* was created by The City of Portland BEarue of Transportation (PBOT). Within PBOT the Vision Zero is dedicated preventing future accidents. The map represents traffic accidents that occur on major corridors that lead to an injury or death. This map help visualize where accidents occur on arterial streets and categorizes accidents by category: car, bike or pedestrian. The map has a dark greyscale basmap while arterial streets are highlighted in yellow. Crashed are represented by orange and bright light grey circles. City officials and people interested in Vision Zero would find this map useful when identifying streets and intersections where accidents occur this leading to safer street design, lowering speed limts and promoting . 
+The ***Portland Traffic Deaths and Injuries since 2007*** was created by The City of Portland BEarue of Transportation (PBOT). Within PBOT the Vision Zero is dedicated preventing future accidents. The map represents traffic accidents that occur on major corridors that lead to an injury or death. This map help visualize where accidents occur on arterial streets and categorizes accidents by category: car, bike or pedestrian. The map has a dark greyscale basmap while arterial streets are highlighted in yellow. Crashed are represented by orange and bright light grey circles. City officials and people interested in Vision Zero would find this map useful when identifying streets and intersections where accidents occur this leading to safer street design, lowering speed limts and promoting . 
 
 ##### System Architecure
 
