@@ -57,4 +57,4 @@ From your own perspective, what is the merits of this web map, and how this web 
 
 ### Final Dissucssions
 
-* *All images in this read me file were screenshots of the Portland Traffic Deaths and Injuries since 2007 web map created by PBOT.
+**All images in this read me file were screenshots of the Portland Traffic Deaths and Injuries since 2007 web map created by PBOT.*
