@@ -35,10 +35,10 @@ The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arc
 * Another interactive feature is the tabs on the side panel. The tabs are "All deaths & injuries", "People in vehicles", "People walking" and " People biking" Clicking on those tabs will select crashed specific to the type of crash it is then the web map on the side will also change to reflect the chosen tab.
 
 <p align="center">
-  <img width="323" height="187" src="https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG">
+  <img width="323" height="187" src="https://github.com/garciahan/Final_MapCritque/blob/master/tab.PNG">
 </p>
 
-![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG)
+![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/tab.PNG)
 
 ### List of Data Source
 Data for this map was collected by Oregon Department of Transportation (ODOT) and the Portland Police Bureau. See the image below to see how PBOT collects their crash data. All data in the map are vector format, with crashes as points and streets are polylines.
