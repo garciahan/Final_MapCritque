@@ -14,8 +14,6 @@ The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arc
   <img width="323" height="187" src="https://github.com/garciahan/Final_MapCritque/blob/master/legand.PNG">
 </p>
 
-![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/legand.PNG)
-
 * Symbols representing different features.
 * City of Portland Boundary is darker than the basemap to area of focus is easily known.
 * Graph in the side panel adds another way to visualize the data on the map.
@@ -29,16 +27,12 @@ The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arc
   <img width="323" height="359" src="https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG>
 </p>
 
-![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG)
-
 * Zoom in out, and re-center button on the map. Also a enter address box to find crashed near an address. 
 * Another interactive feature is the tabs on the side panel. The tabs are "All deaths & injuries", "People in vehicles", "People walking" and " People biking" Clicking on those tabs will select crashed specific to the type of crash it is then the web map on the side will also change to reflect the chosen tab.
 
 <p align="center">
   <img width="592" height="58" src="https://github.com/garciahan/Final_MapCritque/blob/master/tab.PNG">
 </p>
-
-![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/tab.PNG)
 
 ### List of Data Source
 Data for this map was collected by Oregon Department of Transportation (ODOT) and the Portland Police Bureau. See the image below to see how PBOT collects their crash data. All data in the map are vector format, with crashes as points and streets are polylines.
