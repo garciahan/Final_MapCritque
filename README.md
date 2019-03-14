@@ -1,4 +1,4 @@
-# Final Map Critique :walking: :car: :bike:
+# Map Critique :walking: :car: :bike:
 This is a report describing The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arcgis.com/apps/MapSeries/index.html?appid=5385b143768c445db915a9c7fad32ebe) made on ArcGIS online and was created by the city of Portland. The goal of this report is to write up a map critique including a description, data sources, style, and map elements. 
 
 ### Description
