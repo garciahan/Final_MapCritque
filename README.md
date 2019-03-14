@@ -23,7 +23,7 @@ The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arc
 ### List of Data Source
 Data for this map was collected by Oregon Department of Transportation (ODOT) and the Portland Police Bueau. See the image below to see how PBOT collects their crash data. All data in the map are vector format, with crashes as points and streets are polylines.
 
-
+![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/Crashdiagram.png)
 Map from PBOT website [*How crash data works*](https://www.portlandoregon.gov/transportation/article/595691)
 
 ### System Architecure
