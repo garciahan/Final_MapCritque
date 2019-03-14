@@ -1,5 +1,5 @@
 # Final Map Critique :walking: :car: :bike:
-This is a report describing The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arcgis.com/apps/MapSeries/index.html?appid=5385b143768c445db915a9c7fad32ebe) made on ArcGIS online and was created by the city of Portland. The goal of this report is to write up a map critique including a description, data sources, style, and map elements.
+This is a report describing The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arcgis.com/apps/MapSeries/index.html?appid=5385b143768c445db915a9c7fad32ebe) made on ArcGIS online and was created by the city of Portland. The goal of this report is to write up a map critique including a description, data sources, style, and map elements. 
 
 ### Description
 The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arcgis.com/apps/MapSeries/index.html?appid=5385b143768c445db915a9c7fad32ebe) was created by The City of Portland Bureau of Transportation (PBOT) September, 2017. Within PBOT the Vision Zero is dedicated preventing future accidents. The map represents traffic accidents that occur on major corridors that lead to an injury or death. This map help visualizes where accidents occur on arterial streets and categorizes accidents by category: car, bike or pedestrian. The map has a dark greyscale basemap while arterial streets are highlighted in yellow. Crashed are represented by orange and bright light grey circles. City officials and people interested in Vision Zero would find this map useful when identifying streets and intersections where accidents occur this leading to safer street design, lowering speed limits and promoting. 
@@ -51,5 +51,5 @@ From your own perspective, what is the merits of this web map, and how this web 
 ### Final Discussions
 Overall this map has a great design and creates a geospatial visualization of crashes in Portland. The only suggestion is to fix the zoom level when entering in address the map. When entering in a address the zoom goes in super close, so users have to zoom back out to see roads and data. 
 
-
+This map was also featured on **Maps We Love** on [esri.com](https://www.esri.com/en-us/maps-we-love/gallery/portland-vision-zero) :heart:
 **Map screenshots in this read me file were from the [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arcgis.com/apps/MapSeries/index.html?appid=5385b143768c445db915a9c7fad32ebe) web map created by PBOT.*
