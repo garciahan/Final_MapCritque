@@ -9,7 +9,9 @@ The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arc
 * Dark netural basemap. This implies that the thematic layers are the focus of the map.
 * Map title with author and sharable links (Facebook, Twitter and Share button).
 * Side panel with map description and legands.
+
 ![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/legand.PNG)
+
 * Symbols representing diffrent features.
 * City of Portland Boundary is darker than the basemap to area of focues is easily known.
 * Graph in the side panel adds another way to visualize the data on the map.
@@ -18,9 +20,12 @@ The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arc
 **Thamatic and interactive layers**
 * Thamatic layers on the map are the crash points and the street layers.
 * Interactive features include clickinng on points and a info box pops up with data attributed to it. Data attributed to crash points are the date of crash, time, day, number of injuries or deaths, speed, incluence of drugs or alchohol during the crash and if a bike, car por pedestrian were involved. 
+
 ![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG)
+
 * Zoom in out, and recenter button on the map. Also a enter address box to find crashed near an address. 
 * Another interactive feature is the tabs on the side panel. The tabs are "All deaths & injuries", "People in vehicals", "People walking" and " People biking" Clicking on those tabs will select crashed specific to the type of crash it is then the webmap on the side will also change to refelect the chosen tab.
+
 ![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/tab.PNG)
 
 ### List of Data Source
