@@ -26,7 +26,7 @@ The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arc
 * Interactive features include clicking on points and an info box pops up with data attributed to it. Data attributed to crash points are the date of crash, time, day, number of injuries or deaths, speed, influence of drugs or alcohol during the crash and if a bike, car for pedestrian were involved. 
 
 <p align="center">
-  <img width="323" height="187" src="https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG>
+  <img width="323" height="359" src="https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG>
 </p>
 
 ![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG)
