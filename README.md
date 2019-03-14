@@ -46,8 +46,6 @@ The title is informative and tells users that the, map is about traffic deaths a
 The balance of the web map is great, features are separated and the entire page is being used so there is no uneasy empty space. Also the font is consistent only two different fonts are used in the map and there are less than 5 colors used (orange, yellow, black, white and gray). It’s easy to tell that features in yellow, orange and gray are the most important elements since they pop off the page. 
 The symbology is legible, the author chose circles to represent crashed that lead to deaths and injuries. The different sizes of the circles represent magnitude of number of crashes. The figure ground organization is good; the city of Portland boundary is darker than the rest of the basemap so users can tell what the city boundaries are. 
 
-From your own perspective, what is the merits of this web map, and how this web map could be further improved?
-
 ### Final Discussions
 Overall this map has a great design and creates a geospatial visualization of crashes in Portland. The only suggestion is to fix the zoom level when entering in address the map. When entering in a address the zoom goes in super close, so users have to zoom back out to see roads and data. 
 
