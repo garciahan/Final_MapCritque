@@ -28,6 +28,7 @@ The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arc
 <p align="center">
   <img width="592" height="58" src="https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG)">
 </p>
+
 ![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG)
 
 * Zoom in out, and re-center button on the map. Also a enter address box to find crashed near an address. 
@@ -36,6 +37,7 @@ The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arc
 <p align="center">
   <img width="460" height="300" src="https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG)">
 </p>
+
 ![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG)
 
 ### List of Data Source
