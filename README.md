@@ -39,39 +39,17 @@ PBOT has a GIS database that stores all GIS data for the city to use. The city w
 
 ### Map Design Critique
 
-Does the application keep consistent?
+This map is consistant with colors, the basemap is a dark greayscale and the features of interest are yellow, light grey and orange. These colors provide great contrast with the dark basemap. All the information is easily avalible in the side panel. THe side panel 
+provides symbology description and a bar graph, which is a great way to display the data in another way. Side panel also inclued what data is being showed and where the data came from. Anytime a URL is mentioned it is hyperlinked for users to click on. The pside panel is a little text heavy but there is hierarchy so users know what to read first. 
+There are many oppurtunities to interact with the map, in map portion of the map users are able to scroll across the map, and zoomi n/out to look at specific areas. There is also an address bar so if users were intersted in looking at crashes on their street they can type is in and the map will zoom to the location.
+The title is informative and tells users that the ,ap is about traffic deaths and injuries from 2007 - present. The map has no formal introduction but all the other features in the side panel implys what the map is about.
+The balance of the web map is great, features are seperated and the entire page is being used so ther is no uneasy empty space. Also the font is consistant only two diffrent fonts are used in the map and tehre are less than 5 colors used (orange, yelloe, black, white and gray). Its easy to tell that features in yelloe, orange and gray are the most important elements since they pop off the page. 
+The cymbology is lgetable, the author chose circles to represent crashed that lead to deaths and injuries. The diffrent sizes of the circles represent maginiture of number of crashes. The figure ground organization is good, the city of portland boundary is darker than the rest of the basemap so users can tell what the city boundaries are. 
 
-Are important information easy to find?
-
-Are there opportunities for interaction?
-
-Are there a lot of text-only pages?
-
-Is the title descriptive and appealing?
-
-Is there a brief introduction?
-
-Does the application consider the load balance?
-
-Is there any typo or prorgamming error?
-
-Visual contrast
-
-Legibility
-
-Figure-ground organization
-
-Hierarchical organization
-
-Balance
-
-describe the basemap, the thematic layer and the interactive features.
-what the web map elements are used? (e.g, scalar bar, north arrow, legend, etc.)
-Does this web map support responsive design?
 From your own perspective, what is the merits of this web map, and how this web map could be further improved?
 
 ### Final Dissucssions
-when entering in address the map zooms in super close, have to zoom out to see roads
+Overall this map has a great design and creates a geospatial visialization of crashes in Portland. The only sugguestion is to fix the zoom level when entering in address the map. When entering in a address the zoom goes in super close, so users have to zoom back out to see roads and data. 
 
 
 **Map screenshots in this read me file were from the [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arcgis.com/apps/MapSeries/index.html?appid=5385b143768c445db915a9c7fad32ebe) web map created by PBOT.*
