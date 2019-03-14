@@ -11,7 +11,7 @@ The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arc
 * Side panel with map description and legends.
 
 <p align="center">
-  <img width="460" height="300" src="https://github.com/garciahan/Final_MapCritque/blob/master/legand.PNG">
+  <img width="323" height="187" src="https://github.com/garciahan/Final_MapCritque/blob/master/legand.PNG">
 </p>
 
 ![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/legand.PNG)
@@ -25,12 +25,18 @@ The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arc
 * Thematic layers on the map are the crash points and the street layers.
 * Interactive features include clicking on points and an info box pops up with data attributed to it. Data attributed to crash points are the date of crash, time, day, number of injuries or deaths, speed, influence of drugs or alcohol during the crash and if a bike, car for pedestrian were involved. 
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG)">
+</p>
 ![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG)
 
 * Zoom in out, and re-center button on the map. Also a enter address box to find crashed near an address. 
 * Another interactive feature is the tabs on the side panel. The tabs are "All deaths & injuries", "People in vehicles", "People walking" and " People biking" Clicking on those tabs will select crashed specific to the type of crash it is then the web map on the side will also change to reflect the chosen tab.
 
-![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/tab.PNG)
+<p align="center">
+  <img width="460" height="300" src="https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG)">
+</p>
+![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/popup.PNG)
 
 ### List of Data Source
 Data for this map was collected by Oregon Department of Transportation (ODOT) and the Portland Police Bureau. See the image below to see how PBOT collects their crash data. All data in the map are vector format, with crashes as points and streets are polylines.
