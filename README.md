@@ -10,6 +10,10 @@ The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arc
 * Map title with author and sharable links (Facebook, Twitter and Share button).
 * Side panel with map description and legends.
 
+<p align="center">
+  <img width="460" height="300" src="https://github.com/garciahan/Final_MapCritque/blob/master/legand.PNG">
+</p>
+
 ![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/legand.PNG)
 
 * Symbols representing different features.
