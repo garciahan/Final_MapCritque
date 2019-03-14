@@ -35,7 +35,7 @@ The [***Portland Traffic Deaths and Injuries since 2007***](https://pdx.maps.arc
 * Another interactive feature is the tabs on the side panel. The tabs are "All deaths & injuries", "People in vehicles", "People walking" and " People biking" Clicking on those tabs will select crashed specific to the type of crash it is then the web map on the side will also change to reflect the chosen tab.
 
 <p align="center">
-  <img width="323" height="187" src="https://github.com/garciahan/Final_MapCritque/blob/master/tab.PNG">
+  <img width="592" height="58" src="https://github.com/garciahan/Final_MapCritque/blob/master/tab.PNG">
 </p>
 
 ![alt text](https://github.com/garciahan/Final_MapCritque/blob/master/tab.PNG)
